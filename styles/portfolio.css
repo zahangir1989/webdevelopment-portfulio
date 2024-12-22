@@ -2,6 +2,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .nav-title {
     color:#181818;
@@ -36,4 +37,15 @@ nav  li {
     font-weight: 700;
     padding: 15px 35px;
     
+ }
+ .header {
+    background: #fff8f3;
+ }
+ .bannar {
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+ }
+ .bannar .profile-pic {
+    width : 500px;
  }
